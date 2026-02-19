@@ -8,9 +8,7 @@ y los muestra en una interfaz gráfica.
 - Requests
 - Tkinter
 
-## Cómo ejecutar
-
-# Requisitos
+## Requisitos
 - Python 3.10 o superior
 - pip
 
@@ -44,4 +42,5 @@ python main.py
 ## Autor
 
 Esteban Umaña – UTP
+
 
